@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+curl_cffi
+scikit-learn
+xgboost
+lightgbm
+catboost
+shap
