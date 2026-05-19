@@ -1,1 +1,1 @@
-# Bist-term-nal
+# Bist-terminal
